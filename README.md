@@ -1,73 +1,68 @@
-# 👋 Hello World, I'm Rodrigo
+Estudiante de Ingenieria de Software en Hybridge 
 
-🚀 Developer 
 
-I love combining **technology, creativity, storytelling and AI** to create unique digital experiences.
+
+Me gusta combinar **tecnologia, misticismo, creatividad, e Ingenio* para crear experiencias digitales ùnicas.
 
 Currently working on projects that mix **software, art, anime aesthetics and philosophical ideas about consciousness and the universe.**
 
 ---
 
-## 🧠 Current Projects
+## Algunos de mis proyectos
 
-🌌 **The Universe Hacker**  
-A metaphysical sci-fi project exploring consciousness, reality and creativity through storytelling, anime concepts and interactive media.
+🌌 **The Universe Hacker** 
+(Concepto Transmedia)
+https://www.patreon.com/c/TheUniverseHackerGuild_MainHall
 
 🤖 **Eliana AI**  
-An experimental AI personality designed for creative interaction, learning and content creation.
+(Una app estilo Sistema socio-técnico de acompañamiento financiero, emocional y estratégico asistido por IA)
+https://x.com/elianaaiapp
 
 💻 **Innerspire Systems & Solutions**  
-Bots, assistants and automation systems that make digital life easier.
+(Bots, assistants and automation systems that make digital life easier.)
+(currently working on the website)
 
+Detallado Automovil a domicilio (Website)
+https://www.detalladoautomoviladomicilio.com/
 ---
+
+
 
 ## 🛠 Tech Stack
 
-**Languages**
+**Languajes de Programaciòn**
 
 - Python
 - JavaScript
 - HTML
 - CSS
 
-**Tools**
+**Herramientas**
 
 - Git & GitHub
 - Linux
 - APIs
-- Automation
-- AI tools
+- Automatizaciòn
+- Ciencia de Datos
+- Machine Learning
 
-**Learning**
 
-- Live 2d studio
-- Creative writing
-- Interactive storytelling
 
 ---
 
-## 🌱 Philosophy
-
-> "Technology is just another way the universe learns about itself."
-
-I believe code can be used not only to build software, but also to explore ideas about **creativity, intelligence, and consciousness**.
+I believe code can be used not only to build software, but also to explore and expand ideas about **consciousness**.
 
 ---
 
-## 📫 Connect with me
 
-- GitHub: https://github.com/YOURUSERNAME
-- Website: https://yourwebsite.com
-- YouTube: (optional)
-- Twitter / X: (optional)
 
----
+## 📫 Puedes contactarme aqui
 
-## ⚡ Fun Facts
+- GitHub: https://github.com/RodrigoGtzChavez/
+- Website: (currently working on)
+- YouTube: https://www.youtube.com/@LeonAzurielRodrigo
 
-- I like mixing **philosophy, anime aesthetics and programming**
-- I enjoy building **digital worlds and experimental ideas**
-- Always exploring how **AI can amplify human creativity**
+
 
 ---
 
