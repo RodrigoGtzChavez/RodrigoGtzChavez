@@ -1,14 +1,14 @@
-Estudiante de Ingenieria de Software en Hybridge 
+Estudio Ingenieria de Software en la Universidad de Hybridge (https://hybridge.education/)
 
 
 
-Me gusta combinar **tecnologia, misticismo, creatividad, e Ingenio* para crear experiencias digitales ùnicas.
+
 
 
 ---
 
-## 🔭 Algunos de mis proyectos
-(I'm Currently working on projects that mix **software, art, anime aesthetics and philosophical ideas about consciousness and the universe)**
+## 🔭 Algunos de mis trabajos
+(I'm Currently working on projects mixing **software, art, anime aesthetics and philosophical ideas about consciousness and the universe)**
 
 
 🌌 **The Universe Hacker** 
@@ -26,7 +26,7 @@ https://x.com/elianaaiapp
 (Bots, assistants and automation systems that make digital life easier.)
 (currently working on the website)
 
-Detallado Automovil a domicilio (Website)
+**Detallado Automovil a domicilio **
 https://www.detalladoautomoviladomicilio.com/
 ---
 
