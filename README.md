@@ -80,8 +80,8 @@ Pienso que el còdigo puede no solamente ser utilizado para crear software, sino
 
 ## 📫 Puedes contactarme por aqui
 
-- GitHub: https://github.com/RodrigoGtzChavez/
-- Website: (currently working on)
+- Correo: rodrigogtzchavez@gmail.com
+- Website: (currently unpublished
 - YouTube: https://www.youtube.com/@LeonAzurielRodrigo
 
 
