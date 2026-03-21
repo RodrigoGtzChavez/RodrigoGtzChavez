@@ -1,4 +1,4 @@
-Estudio Ingenieria de Software en la Universidad de Hybridge (https://hybridge.education/)
+Soy estudiante de Ingenieria en Software @ Hybridge (https://hybridge.education/)
 
 
 
@@ -17,7 +17,7 @@ https://www.patreon.com/c/TheUniverseHackerGuild_MainHall
 
 🤖 **Eliana AI**  
 
-(Una app estilo Sistema socio-técnico de acompañamiento financiero, emocional y estratégico asistido por IA)
+(Una app/software Propuesta Sistema socio-técnico de acompañamiento financiero, emocional y estratégico asistido por IA)
 https://x.com/elianaaiapp
 
 💻 **Innerspire Systems & Solutions**  
