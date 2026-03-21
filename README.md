@@ -7,7 +7,7 @@ Soy estudiante de Ingenieria en Software @ Hybridge (https://hybridge.education/
 
 ---
 
-## 🔭 Algunos de mis trabajos
+## 🔭 Mis Proyectos
 
 
 🌌 **The Universe Hacker** 
