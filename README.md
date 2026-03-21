@@ -1,4 +1,7 @@
-Soy estudiante de Ingenieria en Software @ Hybridge (https://hybridge.education/)
+Estudiante de Ingenieria en Software => Universidad Hybridge 
+
+
+(https://hybridge.education/)
 
 
 
@@ -7,7 +10,7 @@ Soy estudiante de Ingenieria en Software @ Hybridge (https://hybridge.education/
 
 ---
 
-## 🔭 Mis Proyectos
+## 🔭 Proyectos en los que trabajo actualmente
 🚗 **Detallado Automovil a domicilio **
 Servicio de detallado. Marketing, atención al cliente, control de calidad. Mi negocio actual.
 https://www.detalladoautomoviladomicilio.com/
@@ -25,18 +28,19 @@ https://x.com/elianaaiapp
 💻 **Innerspire Systems & Solutions**  
 
 (Bots, asistantes y sistemas automàticos digitales que facilitan la vida.)
-(developing website)
+https://www.render.app.innerspire.com
 
 
 
-**Mi portfolio Online CV **
-(unpublished website)
+🖥️ **Mi portfolio Online / Digital CV **
+Representaciòn visual de habilidades y showcase de proyectos
+https://www.github.com/RodrigoGtzChavez/OnlinePortfolio
 
 ---
 
 
 
-## 🛠 Tech Stack
+## 🛠 Stack Tech
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -65,20 +69,22 @@ https://x.com/elianaaiapp
 
 - Git & GitHub
 - Linux
+- N8N
+  
+**Especialidades**
 - APIs
-- Automatizaciòn
 - Ciencia de Datos
 
 
 
 ---
-Para mi el còdigo puede no solamente ser utilizado para crear software, sino tambièn para expandir y explorar ideas acerca de la **consciencia**.
+Quizàs El còdigo puede no solamente ser utilizado para crear software, sino tambièn para expandir y explorar ideas acerca de la **consciencia**.
 
 ---
 
 
 
-## 📫 Puedes contactarme por aqui
+## 📫 Contacto
 
 - Correo: rodrigogtzchavez@gmail.com
 - Website: (currently unpublished)
@@ -88,7 +94,7 @@ Para mi el còdigo puede no solamente ser utilizado para crear software, sino ta
 
 ---
 
-⭐ *Gracias por visitar mi perfil*
+⭐ *Gracias por visitar mi perfil de Github*
 
 <!--
 **RodrigoGtzChavez/RodrigoGtzChavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
