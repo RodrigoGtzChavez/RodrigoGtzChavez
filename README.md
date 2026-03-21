@@ -11,30 +11,31 @@ Estudiante de Ingenieria en Software => Universidad Hybridge
 ---
 
 ## 🔭 Proyectos en los que trabajo actualmente
+
+🖥️ **Mi portfolio Online / Digital CV **
+Representaciòn visual de habilidades y showcase de proyectos
+https://rodrigogtzchavez.github.io/OnlinePortfolio/
+
+💻 **Innerspire Systems & Solutions**  
+(Bots, asistantes y ecosistemas digitales que facilitan la vida.)
+[https://www.render.app.innerspire.com]
+
 🚗 **Detallado Automovil a domicilio **
 Servicio de detallado. Marketing, atención al cliente, control de calidad. Mi negocio actual.
 https://www.detalladoautomoviladomicilio.com/
 
 🌌 **The Universe Hacker** 
 (Concepto Transmedia)
-
 https://www.patreon.com/c/TheUniverseHackerGuild_MainHall
 
 🤖 **Eliana AI**  
-
 (Una app/software Propuesta Sistema socio-técnico de acompañamiento financiero, emocional y estratégico asistido por IA)
 https://x.com/elianaaiapp
 
-💻 **Innerspire Systems & Solutions**  
-
-(Bots, asistantes y sistemas automàticos digitales que facilitan la vida.)
-https://www.render.app.innerspire.com
 
 
 
-🖥️ **Mi portfolio Online / Digital CV **
-Representaciòn visual de habilidades y showcase de proyectos
-https://www.github.com/RodrigoGtzChavez/OnlinePortfolio
+
 
 ---
 
@@ -56,6 +57,7 @@ https://www.github.com/RodrigoGtzChavez/OnlinePortfolio
 
 ![APIs](https://img.shields.io/badge/APIs-0052FF?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-2EAD51?style=for-the-badge&logo=anaconda&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23FF66E3.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 
 **Languajes de Programaciòn**
@@ -78,7 +80,7 @@ https://www.github.com/RodrigoGtzChavez/OnlinePortfolio
 
 
 ---
-Quizàs El còdigo puede no solamente ser utilizado para crear software, sino tambièn para expandir y explorar ideas acerca de la **consciencia**.
+Quizàs El còdigo pueda ser utilizado para crear software, y tambièn para expandir  explorando ideas acerca de la **consciencia**.
 
 ---
 
