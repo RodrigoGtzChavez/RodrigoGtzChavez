@@ -13,7 +13,7 @@ Estudiante de Ingenieria en Software => Hybridge Education
 ## 🔭 Proyectos en los que trabajo actualmente
 
 🖥️ **Mi portfolio Online / Digital CV **
-Representaciòn visual de habilidades y showcase de proyectos
+Informaciòn, Representaciòn visual de habilidades y showcase de proyectos
 https://rodrigogtzchavez.github.io/OnlinePortfolio/
 
 💻 **Innerspire Systems & Solutions**  
