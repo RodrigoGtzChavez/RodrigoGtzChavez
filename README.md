@@ -64,14 +64,24 @@ https://x.com/elianaaiapp
 
 - Python
 - JavaScript
+
+**Frontend**
 - HTML
 - CSS
+- React
+- Tailwindcss
+
+**Backend**
+- Node.js
+- Express.js
+- PostgreSQL
+
 
 **Herramientas**
-
 - Git & GitHub
 - Linux
 - N8N
+- Supabase
   
 **Especialidades**
 - APIs
