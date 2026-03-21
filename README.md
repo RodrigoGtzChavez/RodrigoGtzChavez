@@ -92,7 +92,7 @@ https://x.com/elianaaiapp
 
 
 ---
-Quizàs El còdigo pueda ser utilizado para crear software, y tambièn para expandir  explorando ideas acerca de la **consciencia**.
+.. Y si El còdigo puede ser utilizado para crear software, y tambièn para expandir explorando ideas acerca de la **consciencia**.
 
 ---
 
