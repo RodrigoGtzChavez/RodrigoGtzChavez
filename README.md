@@ -1,4 +1,4 @@
-Estudiante de Ingenieria en Software => Universidad Hybridge 
+Estudiante de Ingenieria en Software => Hybridge Education
 
 
 (https://hybridge.education/)
