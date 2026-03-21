@@ -4,21 +4,25 @@ Estudiante de Ingenieria de Software en Hybridge
 
 Me gusta combinar **tecnologia, misticismo, creatividad, e Ingenio* para crear experiencias digitales ùnicas.
 
-Currently working on projects that mix **software, art, anime aesthetics and philosophical ideas about consciousness and the universe.**
 
 ---
 
-## Algunos de mis proyectos
+## 🔭 Algunos de mis proyectos
+(I'm Currently working on projects that mix **software, art, anime aesthetics and philosophical ideas about consciousness and the universe)**
+
 
 🌌 **The Universe Hacker** 
 (Concepto Transmedia)
+
 https://www.patreon.com/c/TheUniverseHackerGuild_MainHall
 
 🤖 **Eliana AI**  
+
 (Una app estilo Sistema socio-técnico de acompañamiento financiero, emocional y estratégico asistido por IA)
 https://x.com/elianaaiapp
 
 💻 **Innerspire Systems & Solutions**  
+
 (Bots, assistants and automation systems that make digital life easier.)
 (currently working on the website)
 
@@ -72,7 +76,7 @@ Pienso que el còdigo puede no solamente ser utilizado para crear software, sino
 
 
 
-## 📫 Puedes contactarme aqui
+## 📫 Puedes contactarme por aqui
 
 - GitHub: https://github.com/RodrigoGtzChavez/
 - Website: (currently working on)
@@ -82,14 +86,14 @@ Pienso que el còdigo puede no solamente ser utilizado para crear software, sino
 
 ---
 
-⭐ *Thanks for visiting my profile*
+⭐ *Gracias por visitar mi perfil*
 
 <!--
 **RodrigoGtzChavez/RodrigoGtzChavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
