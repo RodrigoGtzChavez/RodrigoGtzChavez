@@ -66,8 +66,7 @@ https://www.detalladoautomoviladomicilio.com/
 
 
 ---
-
-I believe code can be used not only to build software, but also to explore and expand ideas about **consciousness**.
+Pienso que el còdigo puede no solamente ser utilizado para crear software, sino tambièn para expandir y explorar ideas acerca de la **consciencia**.
 
 ---
 
