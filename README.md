@@ -3,6 +3,8 @@ Estudiante de Ingenieria en Software => Hybridge Education
 
 (https://hybridge.education/)
 
+![Credencial de Estudiante Oficial de rodrigo gtz](credencialhybridgerorry.jpg)
+
 
 
 
