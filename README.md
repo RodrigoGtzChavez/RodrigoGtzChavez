@@ -8,7 +8,9 @@ Soy estudiante de Ingenieria en Software @ Hybridge (https://hybridge.education/
 ---
 
 ## 🔭 Mis Proyectos
-
+🚗 **Detallado Automovil a domicilio **
+Servicio de detallado. Marketing, atención al cliente, control de calidad. Mi negocio actual.
+https://www.detalladoautomoviladomicilio.com/
 
 🌌 **The Universe Hacker** 
 (Concepto Transmedia)
@@ -25,9 +27,7 @@ https://x.com/elianaaiapp
 (Bots, asistantes y sistemas automàticos digitales que facilitan la vida.)
 (developing website)
 
-**Detallado Automovil a domicilio **
-Servicio de detallado. Marketing, atención al cliente, control de calidad. Mi negocio actual.
-https://www.detalladoautomoviladomicilio.com/
+
 
 **Mi portfolio Online CV **
 (unpublished website)
@@ -52,7 +52,6 @@ https://www.detalladoautomoviladomicilio.com/
 
 ![APIs](https://img.shields.io/badge/APIs-0052FF?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-2EAD51?style=for-the-badge&logo=anaconda&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 **Languajes de Programaciòn**
@@ -69,12 +68,11 @@ https://www.detalladoautomoviladomicilio.com/
 - APIs
 - Automatizaciòn
 - Ciencia de Datos
-- Machine Learning
 
 
 
 ---
-Pienso que el còdigo puede no solamente ser utilizado para crear software, sino tambièn para expandir y explorar ideas acerca de la **consciencia**.
+Para mi el còdigo puede no solamente ser utilizado para crear software, sino tambièn para expandir y explorar ideas acerca de la **consciencia**.
 
 ---
 
@@ -83,7 +81,7 @@ Pienso que el còdigo puede no solamente ser utilizado para crear software, sino
 ## 📫 Puedes contactarme por aqui
 
 - Correo: rodrigogtzchavez@gmail.com
-- Website: (currently unpublished
+- Website: (currently unpublished)
 - YouTube: https://www.youtube.com/@LeonAzurielRodrigo
 
 
