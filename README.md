@@ -26,6 +26,7 @@ https://x.com/elianaaiapp
 (developing website)
 
 **Detallado Automovil a domicilio **
+Servicio de detallado. Marketing, atención al cliente, control de calidad. Mi negocio actual.
 https://www.detalladoautomoviladomicilio.com/
 
 **Mi portfolio Online CV **
