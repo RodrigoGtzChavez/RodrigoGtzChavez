@@ -23,7 +23,7 @@ https://x.com/elianaaiapp
 💻 **Innerspire Systems & Solutions**  
 
 (Bots, asistantes y sistemas automàticos digitales que facilitan la vida.)
-(currently working on the website)
+(developing website)
 
 **Detallado Automovil a domicilio **
 https://www.detalladoautomoviladomicilio.com/
