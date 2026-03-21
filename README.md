@@ -8,7 +8,6 @@ Estudio Ingenieria de Software en la Universidad de Hybridge (https://hybridge.e
 ---
 
 ## 🔭 Algunos de mis trabajos
-(I'm Currently working on projects mixing **software, art, anime aesthetics and philosophical ideas about consciousness and the universe)**
 
 
 🌌 **The Universe Hacker** 
@@ -23,11 +22,14 @@ https://x.com/elianaaiapp
 
 💻 **Innerspire Systems & Solutions**  
 
-(Bots, assistants and automation systems that make digital life easier.)
+(Bots, asistantes y sistemas automàticos digitales que facilitan la vida.)
 (currently working on the website)
 
 **Detallado Automovil a domicilio **
 https://www.detalladoautomoviladomicilio.com/
+
+**Sitio Web Personal**
+(Unpublished)
 ---
 
 
