@@ -16,7 +16,7 @@ Estudio Ingenieria en Software @ Hybridge Education
 
 ## 🔭 Proyectos en los que trabajo actualmente
 
-🖥️ **Mi portfolio Online / Digital CV **
+🖥️ **Online Portfolio / Digital CV **
 https://rodrigogtzchavez.github.io/OnlinePortfolio/
 
 💻 **Innerspire Systems & Solutions** [Innerspire Systems & Solutions es Mi Firma Digital como programador Freelancer]
