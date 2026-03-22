@@ -17,21 +17,31 @@ Estudio Ingenieria en Software @ Hybridge Education
 ## 🔭 Proyectos en los que trabajo actualmente
 
 🖥️ **Online Portfolio / Digital CV **
+![Credencial de rodrigo gtz](oyakata.png)
+
 https://rodrigogtzchavez.github.io/OnlinePortfolio/
 
 💻 **Innerspire Systems & Solutions** [Innerspire Systems & Solutions es Mi Firma Digital como programador Freelancer]
+![Portal Screenshot](innerspire.png)
+
 https://www.render.app.innerspire.com
 
 🚗 **Detallado Automovil a domicilio **
+![Website Screenshot](detalladoautomovil.jpg)
+
 Servicio de detallado. Marketing, atención al cliente, control de calidad. Mi negocio actual.
 https://www.detalladoautomoviladomicilio.com/
 
 🌌 **The Universe Hacker** 
 (Concepto Transmedia)
+![Patreon Profile Picture ](PatreonProfile.png)
+
 https://www.patreon.com/c/TheUniverseHackerGuild_MainHall
 
 🤖 **Eliana AI**  
 (Una app/software Propuesta Sistema socio-técnico de acompañamiento financiero, emocional y estratégico asistido por IA)
+![Eliana's Visual ](4.png)
+
 https://x.com/elianaaiapp
 
 
