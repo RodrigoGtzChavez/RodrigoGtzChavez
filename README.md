@@ -3,7 +3,7 @@ Hola Mundo Yo soy Rorry!
 Estudio Ingenieria en Software @ Hybridge Education
 
 
-(https://hybridge.education/)
+https://hybridge.education/
 
 ![Credencial de Estudiante Oficial de rodrigo gtz](credencialhybridgerorry.jpg)
 
@@ -21,17 +21,23 @@ Estudio Ingenieria en Software @ Hybridge Education
 
 https://rodrigogtzchavez.github.io/OnlinePortfolio/
 
-💻 **Innerspire Systems & Solutions** [Innerspire Systems & Solutions es Mi Firma Digital como programador Freelancer]
+---
+
+💻 **Innerspire Systems & Solutions** 
+
+-Mi Firma Digital como programador y desarrollador Freelancer
 ![Portal Screenshot](innerspire.png)
 
 https://www.render.app.innerspire.com
 
+---
+
 🚗 **Detallado Automovil a domicilio **
+Servicio de detallado. Marketing, atención al cliente, control de calidad. Mi negocio actual.
 ![Website Screenshot](detalladoautomovil.jpg)
 
-Servicio de detallado. Marketing, atención al cliente, control de calidad. Mi negocio actual.
 https://www.detalladoautomoviladomicilio.com/
-
+---
 🌌 **The Universe Hacker** 
 (Concepto Transmedia)
 ![Patreon Profile Picture ](PatreonProfile.png)
