@@ -1,4 +1,6 @@
-Estudiante de Ingenieria en Software => Hybridge Education
+Hola Mundo Yo soy Rorry!
+
+Estudio Ingenieria en Software @ Hybridge Education
 
 
 (https://hybridge.education/)
