@@ -45,7 +45,7 @@ https://www.detalladoautomoviladomicilio.com/
 https://www.patreon.com/c/TheUniverseHackerGuild_MainHall
 
 🤖 **Eliana AI**  
-(Una app/software Propuesta Sistema socio-técnico de acompañamiento financiero, emocional y estratégico asistido por IA)
+(Una Propuesta de App/Software que es un Sistema Socio-Técnico de acompañamiento financiero, emocional y estratégico asistido por IA)
 ![Eliana's Visual ](4.png)
 
 https://x.com/elianaaiapp
