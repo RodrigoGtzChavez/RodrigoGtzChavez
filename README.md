@@ -33,7 +33,7 @@ https://www.render.app.innerspire.com
 ---
 
 🚗 **Detallado Automovil a domicilio **
-Servicio de detallado. Marketing, atención al cliente, control de calidad. Mi negocio actual.
+Servicio de detallado. Marketing, atención al cliente, control de calidad. (Negocio actual).
 ![Website Screenshot](detalladoautomovil.jpg)
 
 https://www.detalladoautomoviladomicilio.com/
@@ -45,7 +45,7 @@ https://www.detalladoautomoviladomicilio.com/
 https://www.patreon.com/c/TheUniverseHackerGuild_MainHall
 
 🤖 **Eliana AI**  
-(Una Propuesta de App/Software que es un Sistema Socio-Técnico de acompañamiento financiero, emocional y estratégico asistido por IA)
+Una Propuesta de App/Software que es un Sistema Socio-Técnico de acompañamiento financiero, emocional y estratégico asistido por IA
 ![Eliana's Visual ](4.png)
 
 https://x.com/elianaaiapp
@@ -110,7 +110,7 @@ https://x.com/elianaaiapp
 
 
 ---
-.. Y si El còdigo puede ser utilizado para crear software, y tambièn para expandir explorando ideas acerca de la **consciencia**.
+.. Y si El còdigo pudiera ser utilizado no solo para crear software, sino tambièn para expandir explorando ideas acerca de la **consciencia**.
 
 ---
 
@@ -119,7 +119,7 @@ https://x.com/elianaaiapp
 ## 📫 Contacto
 
 - Correo: rodrigogtzchavez@gmail.com
-- Website: (currently unpublished)
+- Website: https://rodrigogtzchavez.github.io/OnlinePortfolio/
 - YouTube: https://www.youtube.com/@LeonAzurielRodrigo
 
 
