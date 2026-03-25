@@ -17,24 +17,22 @@ https://hybridge.education/
 ## 🔭 Proyectos en los que trabajo actualmente
 
 🖥️ **Online Portfolio / Digital CV **
-![Credencial de rodrigo gtz](oyakata.png)
-
 https://rodrigogtzchavez.github.io/OnlinePortfolio/
 
 ---
 
 💻 **Innerspire Systems & Solutions** 
+![Portal Screenshot](innerspire.png)
 
 -Mi Firma Digital como programador y desarrollador Freelancer
-![Portal Screenshot](innerspire.png)
 
 https://www.render.app.innerspire.com
 
 ---
 
 🚗 **Detallado Automovil a domicilio **
-Servicio de detallado. Marketing, atención al cliente, control de calidad. (Negocio actual).
 ![Website Screenshot](detalladoautomovil.jpg)
+Servicio de detallado automotrìz. Marketing, atención al cliente, control de calidad. (Actual Negocio).
 
 https://www.detalladoautomoviladomicilio.com/
 ---
@@ -45,7 +43,7 @@ https://www.detalladoautomoviladomicilio.com/
 https://www.patreon.com/c/TheUniverseHackerGuild_MainHall
 
 🤖 **Eliana AI**  
-Una Propuesta de App/Software que es un Sistema Socio-Técnico de acompañamiento financiero, emocional y estratégico asistido por IA
+Una Propuesta para App/Software -/ Sistema Socio-Técnico de acompañamiento financiero, emocional y estratégico asistido por IA
 ![Eliana's Visual ](4.png)
 
 https://x.com/elianaaiapp
@@ -110,7 +108,7 @@ https://x.com/elianaaiapp
 
 
 ---
-.. Y si El còdigo pudiera ser utilizado no solo para crear software, sino tambièn para expandir explorando ideas acerca de la **consciencia**.
+.. ¿Y si El còdigo pudiera ser utilizado no solamente para crear software, sino tambièn para expandir explorando ideas acerca de la **consciencia**?
 
 ---
 
