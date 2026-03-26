@@ -1,6 +1,6 @@
 Hola Mundo Yo soy Rorry!
 
-Estudio Ingenieria en Software @ Hybridge Education
+Soy Estudiante de Ingenieria en Software @ Hybridge Education
 
 
 https://hybridge.education/
