@@ -16,7 +16,7 @@ https://hybridge.education/
 
 ## 🔭 Proyectos en los que trabajo actualmente
 
-🖥️ **Online Portfolio / Digital CV **
+🖥️ **Mi Portfolio Online / CV Digital **
 https://rodrigogtzchavez.github.io/OnlinePortfolio/
 
 ---
