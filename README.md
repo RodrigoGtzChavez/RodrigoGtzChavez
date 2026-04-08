@@ -14,50 +14,9 @@ https://hybridge.education/
 
 ---
 
-## 🔭 Proyectos en los que trabajo actualmente
-
-🖥️ **Mi Portfolio Online / CV Digital **
-https://rodrigogtzchavez.github.io/OnlinePortfolio/
-
----
-
-💻 **Innerspire Systems & Solutions** 
-![Portal Screenshot](innerspire.png)
-
--Mi Firma Digital como programador y desarrollador Freelancer
-
-https://www.render.app.innerspire.com
-
----
-
-🚗 **Detallado Automovil a domicilio **
-![Website Screenshot](detalladoautomovil.jpg)
-Servicio de detallado automotrìz. Marketing, atención al cliente, control de calidad. (Actual Negocio).
-
-https://www.detalladoautomoviladomicilio.com/
----
-🌌 **The Universe Hacker** 
-(Concepto Transmedia)
-![Patreon Profile Picture ](PatreonProfile.png)
-
-https://www.patreon.com/c/TheUniverseHackerGuild_MainHall
-
-🤖 **Eliana AI**  
-Una Propuesta para App/Software -/ Sistema Socio-Técnico de acompañamiento financiero, emocional y estratégico asistido por IA
-![Eliana's Visual ](4.png)
-
-https://x.com/elianaaiapp
 
 
-
-
-
-
----
-
-
-
-## 🛠 Stack Tecnológico
+## 🛠 Herramientas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -103,12 +62,12 @@ https://x.com/elianaaiapp
   
 **Especialidades**
 - APIs
-- Ciencia de Datos
+- Analisis y Procesamiento de Datos
 
 
 
 ---
-.. ¿Y si El còdigo pudiera ser utilizado no solamente para crear software, sino tambièn para expandir explorando ideas acerca de la **consciencia**?
+.. ¿Y si El còdigo pudiera ser utilizado no solamente para crear software, sino tambièn para expandir la **consciencia**?
 
 ---
 
