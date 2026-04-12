@@ -61,7 +61,7 @@ https://hybridge.education/
 - Supabase
   
 **Especialidades**
-- APIs
+- Fullstack Devops
 - Analisis y Procesamiento de Datos
 
 
