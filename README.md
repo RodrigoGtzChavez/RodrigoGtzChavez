@@ -68,7 +68,7 @@ https://hybridge.education/
 
 
 ---
-.. ¿Y si El còdigo pudiera ser utilizado no solamente para crear software, sino tambièn para expandir la **consciencia**?
+.. ¿Y si El còdigo pudiera ser utilizado no solamente para crear software, sino tambièn para expandir la **Consciencia**?
 
 ---
 
@@ -77,7 +77,6 @@ https://hybridge.education/
 ## 📫 Contacto
 
 - Correo: rodrigogtzchavez@gmail.com
-- Website: https://rodrigogtzchavez.github.io/OnlinePortfolio/
 - YouTube: https://www.youtube.com/@LeonAzurielRodrigo
 
 
